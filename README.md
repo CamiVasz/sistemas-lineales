@@ -1,1 +1,1 @@
-# sistemas-lineales
+# Sistemas lineales
